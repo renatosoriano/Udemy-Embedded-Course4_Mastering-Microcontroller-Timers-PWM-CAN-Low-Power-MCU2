@@ -4,6 +4,7 @@
 This repo contains notes and programming assignments for the Udemy's "[Mastering Microcontroller: Timers, PWM, CAN, Low Power (MCU2)](https://www.udemy.com/course/microcontroller-programming-stm32-timers-pwm-can-bus-protocol/)" course by FastBit Embedded Brain Academy.
 
 Date: August, 2019.
+Date Updated (STM32CubeIDE): January, 2024.
 
 - The course is instructed by Engineer Kiran Nayak.
 

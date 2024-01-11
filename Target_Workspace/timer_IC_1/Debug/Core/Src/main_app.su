@@ -1,0 +1,10 @@
+../Core/Src/main_app.c:30:5:main	152	static
+../Core/Src/main_app.c:86:6:SystemClockConfig	96	static
+../Core/Src/main_app.c:172:6:SystemClock_Config_HSE	96	static
+../Core/Src/main_app.c:262:6:GPIO_Init	32	static
+../Core/Src/main_app.c:272:6:TIMER6_Init	8	static
+../Core/Src/main_app.c:284:6:UART2_Init	8	static
+../Core/Src/main_app.c:302:6:TIMER2_Init	24	static
+../Core/Src/main_app.c:325:6:LSE_Configuration	8	static
+../Core/Src/main_app.c:342:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main_app.c:364:6:Error_handler	4	static

@@ -1,0 +1,7 @@
+../Core/Src/main_app.c:80:5:main	8	static
+../Core/Src/main_app.c:129:6:SystemClock_Config	184	static
+../Core/Src/main_app.c:195:13:MX_RTC_Init	32	static
+../Core/Src/main_app.c:244:13:MX_TIM6_Init	16	static
+../Core/Src/main_app.c:268:13:MX_USART2_UART_Init	8	static
+../Core/Src/main_app.c:293:13:MX_GPIO_Init	48	static
+../Core/Src/main_app.c:332:6:_Error_Handler	16	static

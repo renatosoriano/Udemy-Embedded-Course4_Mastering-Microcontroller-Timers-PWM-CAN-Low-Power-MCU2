@@ -1,0 +1,4 @@
+../Core/Src/msp.c:13:6:HAL_MspInit	8	static
+../Core/Src/msp.c:28:7:HAL_UART_MspInit	48	static
+../Core/Src/msp.c:55:8:HAL_TIM_Base_MspInit	24	static
+../Core/Src/msp.c:76:6:HAL_RTC_MspInit	160	static

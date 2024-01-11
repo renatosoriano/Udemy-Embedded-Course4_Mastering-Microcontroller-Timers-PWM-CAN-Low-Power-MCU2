@@ -1,0 +1,5 @@
+../Core/Src/main_app.c:22:5:main	128	static
+../Core/Src/main_app.c:58:6:SystemClockConfig	4	static
+../Core/Src/main_app.c:65:6:UART2_Init	8	static
+../Core/Src/main_app.c:84:9:convert_to_capital	16	static
+../Core/Src/main_app.c:95:6:Error_handler	4	static

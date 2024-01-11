@@ -1,0 +1,5 @@
+../Core/Src/it.c:12:6:SysTick_Handler	8	static
+../Core/Src/it.c:18:6:CAN1_TX_IRQHandler	8	static
+../Core/Src/it.c:24:6:CAN1_RX0_IRQHandler	8	static
+../Core/Src/it.c:30:6:CAN1_RX1_IRQHandler	8	static
+../Core/Src/it.c:36:6:CAN1_SCE_IRQHandler	8	static
