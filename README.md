@@ -10,6 +10,8 @@ Date Updated (STM32CubeIDE): January, 2024.
 
 - The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course4_Mastering-Microcontroller-Timers-PWM-CAN-Low-Power-MCU2/blob/main/Certificate.pdf) is available. 
 
+- The [**Coding Exercises**](https://github.com/renatosoriano/Udemy-Embedded-Course4_Mastering-Microcontroller-Timers-PWM-CAN-Low-Power-MCU2/tree/main/Target_Workspace) are available. 
+
 ## Descriptions
 
 In this course we are going to learn and master Timers , PWM, CAN, RTC, Low Power modes of STM32F4x Micro-controller with step by step guidance, with various real-time exercises which help to master every peripheral covered in this course and covers both theory and practical aspects of Timers, PWM, CAN, RTC, Low Power modes of STM32F4x Micro-controller.
