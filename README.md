@@ -39,7 +39,7 @@ In CAN Section the course covers:
 8. Exploring inside view of CAN transceivers.
 9. CAN Self-test modes such as LOOPBACK, SILENT LOOPBACK, etc with code exercises.
 10. Exploring STM32 bXCAN peripheral.
-11. self-testing of bxCAN peripheral with exercises.
+11. Self-testing of bxCAN peripheral with exercises.
 12. bXCAN block diagram.
 13. Tx/Rx path of the bxCAN Peripheral.
 14. CAN frame filtering and executrices.
@@ -64,9 +64,9 @@ In RTC Section the course covers:
 4. RTC Alarm unit.
 5. RTC wake-up unit.
 6. RTC Time Stamp Unit.
-7. waking up MCU using RTC events.
+7. Waking up MCU using RTC events.
 8. RTC interrupts.
-9. and lots of other details with step by step code exercises.
+9. Other details with step by step code exercises.
 
 STM32 Device HAL framework:
 1. STM32 Device Hal framework details.
